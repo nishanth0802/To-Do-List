@@ -5,7 +5,7 @@ function add()
     
 if(tasktext===" ")
 {
-    alert("error");
+    alert("EMPTY TASKS CANNOT BE ADDED");
 return;
 }
 
